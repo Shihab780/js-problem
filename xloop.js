@@ -10,4 +10,6 @@ function sob (num){
 }
 
 
+
+
 sob (arr)
